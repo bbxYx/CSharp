@@ -1,1 +1,4 @@
-# HelloCSharpWin
+# C Sharp 첫 프로젝트
+windows form을 이용하여 UI생성
+사직연산만이 가능한 계산기
+수정필요 : 0을곱하고 0을 나누는 과정에 대해서 수정필요
